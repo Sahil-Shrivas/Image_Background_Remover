@@ -57,8 +57,8 @@
 ## ⚙️ How to Run Locally
 
 1️⃣ Clone the repository  
-    ```bash
-      git clone https://github.com/Sahil-Shrivas/Image_Background_Remover.git
+
+    git clone https://github.com/Sahil-Shrivas/Image_Background_Remover.git
       cd Image_Background_Remover
 
 ---
